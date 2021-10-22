@@ -891,7 +891,7 @@
   bottom: 0;
   padding: 15px;
   text-align: right;
-  font-size: 30px;
+  font-size: 10px;
   color: #fff;
   z-index: 999999;
 }
@@ -899,7 +899,7 @@
 @media (max-width: 992px) {
   .credits {
     text-align: center;
-    padding: 100px;
+    padding: 10px;
     background: rgba(0, 0, 0, 0.8);
   }
 }
@@ -911,3 +911,4 @@
 
 .credits a:hover {
   color: #fff;
+}
